@@ -1,3 +1,3 @@
-export function subtract(firstnumber: number, secondnumber: number): number {
-  return firstnumber - secondnumber;
+export function test() {
+  console.log('test 0');
 }

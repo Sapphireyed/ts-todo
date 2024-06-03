@@ -1,5 +1,5 @@
 npm init -y
-npm install -D webpack webpack-cli ts-loader webpack-dev-server
+npm install -D webpack webpack-cli ts-loader webpack-dev-server typescript
 
 create webpack.config.js
 <!-- const path = require('path');
